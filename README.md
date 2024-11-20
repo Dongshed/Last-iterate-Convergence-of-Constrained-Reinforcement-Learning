@@ -16,7 +16,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-=================================================================================================
+====================================================================================
 
 Acknowledgment
 
@@ -24,7 +24,7 @@ The code of generating random MDP transition dynamics
 https://github.com/jb3618columbia/Optimality-Guarantees-for-Policy-Gradient-Methods
 The reference: Global Optimality Guarantees For Policy Gradient Methods, J. Bhandari and D. Russo
 
-=================================================================================================
+====================================================================================
 
 # Description
  
@@ -44,7 +44,7 @@ executing our Jupyter Notebook documents, accordingly. The requirements are:
             		 Jupyter Notebook
     		Python 3, NumPy, Matplotlib, and SciPy.
 
-=================================================================================================
+====================================================================================
  
     	 Convergence performance of RPG-PD, OPG-PD, and primal-dual methods
 
@@ -53,7 +53,7 @@ executing our Jupyter Notebook documents, accordingly. The requirements are:
  (2) NPG_primal_dual_comparison_conservative.ipynb ----------------------> Figure 6
 
 
-=================================================================================================
+====================================================================================
  
      	Convergence performance of RPG-PD, OPG-PD, and dual methods
 
@@ -62,7 +62,7 @@ executing our Jupyter Notebook documents, accordingly. The requirements are:
  (2) NPG_dual_comparison_conservative.ipynb -----------------------------> Figure 7
 
 
-=================================================================================================
+====================================================================================
 
      	Convergence performance of RPG-PD, OPG-PD, and primal methods
  
@@ -71,14 +71,14 @@ executing our Jupyter Notebook documents, accordingly. The requirements are:
  (2) NPG_primal_comparison_conservative.ipynb ---------------------------> Figure 8
 
 
-=================================================================================================
+====================================================================================
 
      	Convergence performance of RPG-PD with different regularization parameters and stepsizes
  
 (1) Regularized_NPG_primal_dual_sensitivity_tau.ipynb ------------------> Figures 9-12
 
 
-=================================================================================================
+====================================================================================
 
      	Convergence performance of OPG-PD/OMWU-PD with different stepsizes
  
