@@ -49,6 +49,7 @@ executing our Jupyter Notebook documents, accordingly. The requirements are:
     	 Convergence performance of RPG-PD, OPG-PD, and primal-dual methods
 
  (1) NPG_primal_dual_comparison.ipynb -----------------------------------> Figure 1
+ 
  (2) NPG_primal_dual_comparison_conservative.ipynb ----------------------> Figure 6
 
 
@@ -57,6 +58,7 @@ executing our Jupyter Notebook documents, accordingly. The requirements are:
      	Convergence performance of RPG-PD, OPG-PD, and dual methods
 
  (1) NPG_dual_comparison.ipynb ------------------------------------------> Figure 4
+ 
  (2) NPG_dual_comparison_conservative.ipynb -----------------------------> Figure 7
 
 
@@ -65,6 +67,7 @@ executing our Jupyter Notebook documents, accordingly. The requirements are:
      	Convergence performance of RPG-PD, OPG-PD, and primal methods
  
  (1) NPG_primal_comparison.ipynb ----------------------------------------> Figure 5
+ 
  (2) NPG_primal_comparison_conservative.ipynb ---------------------------> Figure 8
 
 
@@ -80,6 +83,7 @@ executing our Jupyter Notebook documents, accordingly. The requirements are:
      	Convergence performance of OPG-PD/OMWU-PD with different stepsizes
  
 (1) Optimistic_NPG_primal-dual_ODGA_OMWU_sensitivity.ipynb -------------> Figure 2 and Figure 13
+
 (2) Optimistic_NPG_primal-dual_ReLOAD_OMWU_sensitivity.ipynb -----------> Figures 14-17
 
 
