@@ -1,5 +1,7 @@
 # Last-iterate-Convergence-of-Constrained-Reinforcement-Learning
 
+Link to the paper: https://arxiv.org/abs/2306.11700
+
 Copyright (c) [2023] 
 [Dongsheng Ding, Chen-Yu Wei, Kaiqing Zhang, and Alejandro Ribeiro]
 All Rights Reserved.
